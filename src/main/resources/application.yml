@@ -1,0 +1,7 @@
+# DataSource Config
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://192.168.50.54:3306/captcha_db
+    username: root
+    password: root
